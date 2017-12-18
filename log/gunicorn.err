@@ -1,0 +1,41 @@
+[2017-12-18 11:26:22 +0000] [26003] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 11:26:22 +0000] [26003] [INFO] Listening at: http://0.0.0.0:5000 (26003)
+[2017-12-18 11:26:22 +0000] [26003] [INFO] Using worker: sync
+[2017-12-18 11:26:22 +0000] [26020] [INFO] Booting worker with pid: 26020
+[2017-12-18 11:26:22 +0000] [26021] [INFO] Booting worker with pid: 26021
+[2017-12-18 11:26:22 +0000] [26030] [INFO] Booting worker with pid: 26030
+[2017-12-18 11:26:22 +0000] [26033] [INFO] Booting worker with pid: 26033
+[2017-12-18 11:37:05 +0000] [27797] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 11:37:05 +0000] [27797] [INFO] Listening at: http://0.0.0.0:5000 (27797)
+[2017-12-18 11:37:05 +0000] [27797] [INFO] Using worker: sync
+[2017-12-18 11:37:05 +0000] [27808] [INFO] Booting worker with pid: 27808
+[2017-12-18 11:37:16 +0000] [28133] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 11:37:16 +0000] [28133] [INFO] Listening at: http://0.0.0.0:5000 (28133)
+[2017-12-18 11:37:16 +0000] [28133] [INFO] Using worker: sync
+[2017-12-18 11:37:16 +0000] [28150] [INFO] Booting worker with pid: 28150
+[2017-12-18 11:59:05 +0000] [29111] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 11:59:05 +0000] [29111] [INFO] Listening at: http://0.0.0.0:5000 (29111)
+[2017-12-18 11:59:05 +0000] [29111] [INFO] Using worker: sync
+[2017-12-18 11:59:05 +0000] [29129] [INFO] Booting worker with pid: 29129
+[2017-12-18 14:18:33 +0000] [29111] [CRITICAL] WORKER TIMEOUT (pid:29129)
+[2017-12-18 14:18:33 +0000] [29129] [INFO] Worker exiting (pid: 29129)
+[2017-12-18 14:18:33 +0000] [421] [INFO] Booting worker with pid: 421
+[2017-12-18 14:25:52 +0000] [558] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 14:25:52 +0000] [558] [INFO] Listening at: http://0.0.0.0:5000 (558)
+[2017-12-18 14:25:52 +0000] [558] [INFO] Using worker: sync
+[2017-12-18 14:25:52 +0000] [571] [INFO] Booting worker with pid: 571
+[2017-12-18 14:27:00 +0000] [558] [CRITICAL] WORKER TIMEOUT (pid:571)
+[2017-12-18 14:27:00 +0000] [571] [INFO] Worker exiting (pid: 571)
+[2017-12-18 14:27:00 +0000] [765] [INFO] Booting worker with pid: 765
+[2017-12-18 14:27:35 +0000] [794] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 14:27:35 +0000] [794] [INFO] Listening at: http://0.0.0.0:5000 (794)
+[2017-12-18 14:27:35 +0000] [794] [INFO] Using worker: sync
+[2017-12-18 14:27:35 +0000] [803] [INFO] Booting worker with pid: 803
+[2017-12-18 14:27:45 +0000] [862] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 14:27:45 +0000] [862] [INFO] Listening at: http://0.0.0.0:5000 (862)
+[2017-12-18 14:27:45 +0000] [862] [INFO] Using worker: sync
+[2017-12-18 14:27:45 +0000] [873] [INFO] Booting worker with pid: 873
+[2017-12-18 14:32:49 +0000] [2069] [INFO] Starting gunicorn 19.7.1
+[2017-12-18 14:32:49 +0000] [2069] [INFO] Listening at: http://0.0.0.0:5000 (2069)
+[2017-12-18 14:32:49 +0000] [2069] [INFO] Using worker: sync
+[2017-12-18 14:32:49 +0000] [2098] [INFO] Booting worker with pid: 2098
