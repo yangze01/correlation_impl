@@ -77,8 +77,11 @@ class CoSearch(object):
 
             except:
                 continue
+        # return_json_list = {#'keywords': return_word_list,
+        #                     'relation': return_relation_list}
+        # return return_json_list
+        return return_relation_list
 
-        return return_word_list, return_relation_list
 if __name__ == "__main__":
     csv_tuple_path = BasePath + '/csv/csv_tuple_pos_select.csv'
     csv_dict_path = BasePath + '/csv/csv_dict_pos_select.csv'
@@ -87,3 +90,6 @@ if __name__ == "__main__":
     print(Cosearch.search_word(x))
     sentence = "诈骗"
     print(Cosearch.get_keywords(sentence))
+
+
+

@@ -8,8 +8,8 @@ app.secret_key = '!@#$%^&*()'
 app.config['SESSION_TYPE'] = 'filesystem'
 app.debug = False
 
-csv_tuple_path = BasePath + '/csv/csv_tuple_pos_select.csv'
-csv_dict_path = BasePath + '/csv/csv_dict_pos_select.csv'
+csv_tuple_path = BasePath + '/correlation_impl/csv/csv_tuple_pos_select.csv'
+csv_dict_path = BasePath + '/correlation_impl/csv/csv_dict_pos_select.csv'
 cosearch = CoSearch(csv_tuple_path, csv_dict_path)
 
 @app.route('/correlation', methods = ['GET','POST'])

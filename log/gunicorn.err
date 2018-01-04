@@ -39,3 +39,43 @@
 [2017-12-18 14:32:49 +0000] [2069] [INFO] Listening at: http://0.0.0.0:5000 (2069)
 [2017-12-18 14:32:49 +0000] [2069] [INFO] Using worker: sync
 [2017-12-18 14:32:49 +0000] [2098] [INFO] Booting worker with pid: 2098
+[2017-12-21 15:55:39 +0000] [2553] [INFO] Starting gunicorn 19.7.1
+[2017-12-21 15:55:39 +0000] [2553] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:39 +0000] [2553] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:40 +0000] [2553] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:40 +0000] [2553] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:41 +0000] [2553] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:41 +0000] [2553] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:42 +0000] [2553] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:42 +0000] [2553] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:43 +0000] [2553] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:43 +0000] [2553] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:44 +0000] [2553] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2017-12-21 15:55:49 +0000] [2572] [INFO] Starting gunicorn 19.7.1
+[2017-12-21 15:55:49 +0000] [2572] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:49 +0000] [2572] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:50 +0000] [2572] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:50 +0000] [2572] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:51 +0000] [2572] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:51 +0000] [2572] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:52 +0000] [2572] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:52 +0000] [2572] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:53 +0000] [2572] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:55:53 +0000] [2572] [ERROR] Retrying in 1 second.
+[2017-12-21 15:55:54 +0000] [2572] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2017-12-21 15:56:31 +0000] [2651] [INFO] Starting gunicorn 19.7.1
+[2017-12-21 15:56:31 +0000] [2651] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:56:31 +0000] [2651] [ERROR] Retrying in 1 second.
+[2017-12-21 15:56:32 +0000] [2651] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:56:32 +0000] [2651] [ERROR] Retrying in 1 second.
+[2017-12-21 15:56:33 +0000] [2651] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:56:33 +0000] [2651] [ERROR] Retrying in 1 second.
+[2017-12-21 15:56:34 +0000] [2651] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:56:34 +0000] [2651] [ERROR] Retrying in 1 second.
+[2017-12-21 15:56:35 +0000] [2651] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2017-12-21 15:56:35 +0000] [2651] [ERROR] Retrying in 1 second.
+[2017-12-21 15:56:36 +0000] [2651] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2017-12-21 16:11:20 +0000] [3801] [INFO] Starting gunicorn 19.7.1
+[2017-12-21 16:11:20 +0000] [3801] [INFO] Listening at: http://0.0.0.0:5000 (3801)
+[2017-12-21 16:11:20 +0000] [3801] [INFO] Using worker: sync
+[2017-12-21 16:11:20 +0000] [3810] [INFO] Booting worker with pid: 3810
